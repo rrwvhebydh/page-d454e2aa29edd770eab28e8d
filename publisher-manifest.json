@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d94d05179d54a534c43c70ab",
+  "owner": "rrwvhebydh",
+  "repo": "page-d454e2aa29edd770eab28e8d",
+  "title": "一分机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d454e2aa29edd770eab28e8d",
+      "a": "一分机场",
+      "b": "机场官网线路发布页",
+      "entity": "一分机场",
+      "brand": "一分机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3bbab4e543f0bb0d060f0339d7ad1f7f560dc649fe80d5a599c813be82307f68",
+      "content": {
+        "primary_entity": "一分机场",
+        "keyword1": "一分机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_HERO_SUBTITLE": "海外加速线路与套餐选择",
+          "AI_HERO_INTRO": "一分机场提供海外加速器订阅服务，覆盖基础版、旗舰版、团队版三档套餐。按设备数量、月流量和线路类型选择，配合客户端导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "一分机场 订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "普通线路与专线可选",
+          "AI_HIGHLIGHT_3": "月付年付灵活计费",
+          "AI_DESCRIPTION": "，一分机场面向不同设备规模提供订阅方案。基础版每月 100GB 流量，适合手机与电脑轻度使用；旗舰版每月 300GB 流量并含 IPLC 专线，兼顾流媒体与游戏优化；团队版每月 1000GB 流量，支持 20 台设备同时在线。年付价格更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度了解一分机场订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "支持 3 台、5 台或 20 台设备同时在线，按需选择。",
+          "AI_FEATURE_TITLE_3": "按线路选版本",
+          "AI_FEATURE_TEXT_3": "普通线路节点池与 IPLC 专线分别适配日常浏览和游戏。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据使用设备选择对应客户端，在客户端中导入订阅地址即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比月付与年付价格、流量额度和设备数量，选择适合的版本。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按三个步骤完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版、团队版中选定版本。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认客户端类型与系统版本，选择对应平台的订阅配置。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "参照客户端文档，将订阅地址粘贴到客户端完成配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一分机场有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，含每月 100GB 流量、3 台设备；旗舰版 ¥35/月，含每月 300GB 流量、5 台设备与 IPLC 专线；团队版 ¥85/月，含每月 1000GB 流量、20 台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。与按月付费相比，年付相当于十个月价格，长期使用更划算。",
+          "AI_FAQ_QUESTION_3": "一台订阅能在几台设备上用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出同时在线数量时，可升级套餐或减少同时连接设备。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再复制订阅地址粘贴到客户端的订阅导入位置，保存后更新节点列表即可使用。具体路径可查看客户端文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版线路有什么不同？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线，适合对游戏延迟和流媒体清晰度有要求的场景；团队版使用 VIP 专属高带宽节点，并支持企业定制路由，适合多人多设备环境。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_CLOSING_TEXT": "按设备与流量选定一分机场套餐，导入订阅后即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xvyvozy.cn",
+    "host": "xvyvozy.cn"
+  },
+  "file_hashes": {
+    "index.html": "6b752ebdc1f35dd6fe4c37f916ca588143a3cc74dcbe2dbbc596fbd613f87b9b",
+    "sitemap.xml": "c9701224e37a79ea957bfbae031da2d8c2d008a11ad12379e0da1245ec9ae867",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8f8d630224b91307bf97900d1e8a736ca2fa856f07112c883c15510637072d0b",
+    "robots.txt": "4e601327f54ba937854ac7d5e26130114dc125f2d785ac08e03a8ee453436edf",
+    "7c062f4fb4dccd30d5b5a5bf60840c69.txt": "f59479f91a8c9ff79b5fe20a2e152062cae2a4c0ef7f64f4b1d4f92ecb3a5b54"
+  },
+  "revision": "f85d73172146a67a9dfb0b981c9fa1779b4e0ea3376d580732aec4e8fa474b04"
+}
